@@ -64,8 +64,7 @@ The objective of this analysis was to uncover the key factors influencing profit
   - Technology category is the main profit driver  
   - Furniture with high discounts causes losses  
   - 20% of customers contribute >60% revenue  
-- Recommendations: optimize discounts, focus on profitable segments, improve South region strategy, customer loyalty, and real-time dashboard  
-
+- Recommendations: optimize discounts, focus on profitable segments, improve South region strategy, and customer loyalty
 ---
  
 
