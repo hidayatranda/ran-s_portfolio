@@ -65,7 +65,6 @@ The objective of this analysis was to uncover the key factors influencing profit
   - Furniture with high discounts causes losses  
   - 20% of customers contribute >60% revenue  
 - Recommendations: optimize discounts, focus on profitable segments, improve South region strategy, and customer loyalty
----
 
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-white?logo=looker)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-white?logo=microsoft-excel)
