@@ -66,5 +66,10 @@ The objective of this analysis was to uncover the key factors influencing profit
   - 20% of customers contribute >60% revenue  
 - Recommendations: optimize discounts, focus on profitable segments, improve South region strategy, and customer loyalty
 ---
- 
+
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+
 
